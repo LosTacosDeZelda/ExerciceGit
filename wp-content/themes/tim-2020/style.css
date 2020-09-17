@@ -407,6 +407,7 @@ h4,
 h5,
 h6 {
   clear: both;
+  background-color: #366e34;
 }
 
 p {
@@ -480,7 +481,7 @@ ol {
 }
 
 ul {
-  list-style:armenian;
+  list-style: armenian ;
 }
 
 ol {
