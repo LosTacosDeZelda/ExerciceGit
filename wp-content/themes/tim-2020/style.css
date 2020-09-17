@@ -526,6 +526,7 @@ table {
 --------------------------------------------- */
 a {
   color: #4169e1;
+  font-variant: small-caps;
 }
 
 a:visited {
