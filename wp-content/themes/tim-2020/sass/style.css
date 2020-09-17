@@ -964,7 +964,7 @@ textarea {
 }
 
 .site-title {
-  color: blueviolet;
-  font-size: 10pt;
+  font-variant: small-caps;
+  font-size: 5pt;
 }
 /*# sourceMappingURL=style.css.map */

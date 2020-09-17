@@ -100,3 +100,8 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 /* Alignments
 --------------------------------------------- */
 @import "utilities/alignments";
+
+.site-title{
+	font-variant: small-caps;
+	font-size: 5pt;
+}

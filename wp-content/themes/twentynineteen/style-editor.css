@@ -712,6 +712,7 @@ h6 {
 }
 
 a {
+  -webkit-transition: color 110ms ease-in-out;
   transition: color 110ms ease-in-out;
   color: #0073aa;
 }
@@ -1028,7 +1029,9 @@ figcaption,
 .wp-block-pullquote blockquote {
   margin-top: calc(3 * 1rem);
   margin-bottom: calc(3.33 * 1rem);
-  hyphens: auto;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
   word-break: break-word;
 }
 
@@ -1501,3 +1504,4 @@ ul.wp-block-archives li ul,
     width: calc(125% + 120px);
   }
 }
+/*# sourceMappingURL=style-editor.css.map */
